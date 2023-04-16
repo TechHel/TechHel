@@ -1,4 +1,13 @@
-### Hi there 👋
+### Greetings!
+My Name is Helbert John Balasa. I am a 3rd year college student taking Bachelor of Science in Information Technology in Central Philippines University.
+
+⚡5 Fun Facts:
+1. I have a passion for performing art likes acting, dancing and singing since elementary.
+2. I am a gamer either digital or real games in any genres as long as i understand the rules of it.
+3. I love animation since anyone can make their own story through this medium.
+4. I love to watch anime and cartoons.
+5. I pursue in the field of technology to expand my horizon and understanding about technology and its advancements.
+
 
 <!--
 **TechHel/TechHel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
