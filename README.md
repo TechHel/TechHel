@@ -7,6 +7,8 @@ My Name is Helbert John Balasa. I am a 3rd year college student taking Bachelor 
 3. I love animation since anyone can make their own story through this medium.
 4. I love to watch anime and cartoons.
 5. I pursue in the field of technology to expand my horizon and understanding about technology and its advancements.
+
+
 <!--
 **TechHel/TechHel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
